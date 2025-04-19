@@ -9,7 +9,7 @@ Este é um projeto de **landing page inspirado no universo dos Irmãos Mario**, 
 
 ## 📸 Preview
 
-![Mario Bros Landing Page Preview](https://media.discordapp.net/attachments/1329249192786526371/1361174039221239960/1.png?ex=6803ba5c&is=680268dc&hm=432bb5371d032a0638d4909982a6a2c33f4dc1546d7c370ef8a96f55220e00e8&=&format=webp&quality=lossless&width=1535&height=863)  
+![Mario Bros Landing Page Preview](https://media.discordapp.net/attachments/1329249192786526371/1362983562097197147/Design_sem_nome_1_1.png?ex=680460dc&is=68030f5c&hm=c5bbfdaa57b9a4270ba48e9da1302657608c6c8327ac1357dad81a541de26eb9&=&format=webp&quality=lossless)  
 
 ---
 
